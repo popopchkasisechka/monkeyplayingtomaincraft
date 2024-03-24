@@ -1,0 +1,1 @@
+print('1,2 becking my shoes 3,4 backing some more 5,6 nike kicks')
